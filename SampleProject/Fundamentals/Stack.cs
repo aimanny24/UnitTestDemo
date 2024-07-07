@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TestNinja.Fundamentals
+namespace SampleProject.Fundamentals
 {
     public class Stack<T>
     {
