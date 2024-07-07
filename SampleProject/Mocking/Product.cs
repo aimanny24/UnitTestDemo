@@ -1,4 +1,4 @@
-﻿namespace TestNinja.Mocking
+﻿namespace SampleProject.Mocking
 {
     public class Product
     {

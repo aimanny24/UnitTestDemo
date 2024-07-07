@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestNinja.Fundamentals
+namespace SampleProject.Fundamentals
 {
     public class PhoneNumber
     {

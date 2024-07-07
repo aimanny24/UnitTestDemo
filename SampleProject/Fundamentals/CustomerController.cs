@@ -1,4 +1,4 @@
-﻿namespace TestNinja.Fundamentals
+﻿namespace SampleProject.Fundamentals
 {
     public class CustomerController
     {
